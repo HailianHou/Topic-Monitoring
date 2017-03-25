@@ -1,0 +1,8 @@
+install.packages("Rfacebook")
+install.packages("ggplot2")
+install.packages("scales")
+install.packages("dplyr")
+
+library(ggplot2)
+library(scales)
+library(dplyr)
